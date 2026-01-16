@@ -13,5 +13,12 @@ let tt1 = 10;
 let tt2 = 11;
 let tt3 = tt1+tt2;
 </script>
+<table>
+	<span></span>
+	<span></span>
+	<span></span>
+	<span></span>
+	<span></span>
+</table>
 </body>
 </html>
