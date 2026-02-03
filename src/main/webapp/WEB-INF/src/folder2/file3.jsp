@@ -10,7 +10,7 @@
 <span>1234</span>
 <script>
 let tt1 = 10;
-let tt2 = 16;
+let tt2 = 17;
 let tt3 = tt1+tt2;
 </script>
 <table>
